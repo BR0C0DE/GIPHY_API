@@ -9,3 +9,12 @@ Garrett's changes again, this time with style
 typo fix
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++
 Austin read me
+
+
+
+giphy API:
+    https://api.giphy.com/v1/gifs
+
+
+Api key:
+    HslAlr72r4xOZgqeuXYLU8k3nC7C3PIM
