@@ -1,8 +1,10 @@
 # GIPHY_API
-this is all gone now 
-asdlkasd
-asdas
-hi peter
-adas
-daasd
-nice peter
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Garrett's Read me 
+I am adding changes
+because reasons
+lets see what happens when I deploy to main
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Garrett's changes again, this time with stlye
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Austin read me
