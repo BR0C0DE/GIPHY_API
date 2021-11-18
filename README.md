@@ -1,6 +1,10 @@
 # GIPHY_API
-meow meow
-meow meow
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
 Garrett's Read me 
-hello ready for main
-this is a test
+I am adding changes
+because reasons
+lets see what happens when I deploy to main
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Garrett's changes again, this time with stlye
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Austin read me
