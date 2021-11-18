@@ -13,5 +13,7 @@ Austin read me
 
 
 giphy API:
-  https://api.giphy.com/v1/gifs/random?api_key=HslAlr72r4xOZgqeuXYLU8k3nC7C3PIM&tag=&rating=g
+  https://api.giphy.com/v1/gifs/search?api_key=HslAlr72r4xOZgqeuXYLU8k3nC7C3PIM&q=${WHATWESEARCH}&limit=10&offset=0&rating=g&lang=en
 
+
+giphy api key: HslAlr72r4xOZgqeuXYLU8k3nC7C3PIM&q
